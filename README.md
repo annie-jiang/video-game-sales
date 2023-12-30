@@ -16,4 +16,4 @@ Step 4: Summary of Video Games Sales Data Analysis
 
 ## Files Included
 - .ipynb Notebook
-- Video Game Sales .csv file
+- vgsales.csv file
